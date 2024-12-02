@@ -2,7 +2,6 @@
 
 ## Description
 This is a repository for the Advent of Code 2024. I will be using this repository to store my solutions to the problems and to keep track of my progress. Language used is Python.
-The code used to solve the puzzle won't be uploaded before the end of the advent of code to avoid spoilers.
 
 ## Days done
 - [x] Day 1, Part 1

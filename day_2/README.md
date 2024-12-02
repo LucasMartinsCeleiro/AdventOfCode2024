@@ -1,7 +1,5 @@
 # Day 2: Red-Nosed Reports
 
-The code used to solve the puzzle won't be uploaded before the end of the advent of code to avoid spoilers.
-
 ## Puzzle instructions
 
 Fortunately, the first location The Historians want to search isn't a long walk from the Chief Historian's office.

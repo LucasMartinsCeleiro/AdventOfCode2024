@@ -1,7 +1,5 @@
 # Day 1 : Historian Hysteria : Part 1
 
-The code used to solve the puzzle won't be uploaded before the end of the advent of code to avoid spoilers.
-
 ## Puzzle instructions
 
 You haven't even left yet and the group of Elvish Senior Historians has already hit a problem: their list of locations to check is currently empty. Eventually, someone decides that the best place to check first would be the Chief Historian's office.
