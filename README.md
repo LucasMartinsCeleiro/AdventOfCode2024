@@ -7,8 +7,8 @@ The code used to solve the puzzle won't be uploaded before the end of the advent
 ## Days done
 - [x] Day 1, Part 1
 - [x] Day 1, Part 2
-- [ ] Day 2, Part 1
-- [ ] Day 2, Part 2
+- [x] Day 2, Part 1
+- [x] Day 2, Part 2
 - [ ] Day 3, Part 1
 - [ ] Day 3, Part 2
 - [ ] Day 4, Part 1
