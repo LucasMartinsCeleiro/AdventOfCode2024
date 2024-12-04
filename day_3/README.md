@@ -1,4 +1,4 @@
-# Day 3: Mull it Over
+# Day 3: Mull it Over : Part 1
 
 ## Puzzle instructions
 
@@ -26,7 +26,7 @@ Scan the corrupted memory for uncorrupted mul instructions. What do you get if y
 3. **Step 3**: Parse the extracted instructions to compute `X * Y` for each valid `mul` instruction.
 4. **Step 4**: Sum up all the results and return the final result.
 
-# Day 2 : Red-Nosed Reports : Part 2
+# Day 3 : Mull it Over : Part 2
 
 ## Puzzle instructions
 
