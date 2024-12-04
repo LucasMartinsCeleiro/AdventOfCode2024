@@ -8,8 +8,8 @@ This is a repository for the Advent of Code 2024. I will be using this repositor
 - [x] Day 1, Part 2
 - [x] Day 2, Part 1
 - [x] Day 2, Part 2
-- [ ] Day 3, Part 1
-- [ ] Day 3, Part 2
+- [x] Day 3, Part 1
+- [x] Day 3, Part 2
 - [ ] Day 4, Part 1
 - [ ] Day 4, Part 2
 - [ ] Day 5, Part 1

@@ -1,12 +1,3 @@
-#Advent of Code 2024 - Day 1 : Part 2
-
-# Step to solve the problem
-
-# Step 1 : Separate the two columns of numbers into two separate lists
-# Step 2 : Count the number of occurrences of each number in the right list
-# Step 3 : For each number in the left list, multiply it by the number of occurrences in the right list
-# Step 4 : Sum all the results
-
 from day_1_part_1 import separate_input_file
 
 def count_occurrences(list_2):

@@ -1,15 +1,6 @@
 import time
 import re
 
-# Advent of Code 2024 - Day 3 : Part 1
-
-# Step to solve the problem
-
-# Step 1 : Read the input data
-# Step 2 : keep only the valid mul instructions
-# Step 3 : Calculate the result of each valid mul instruction
-# Step 4 : Sum all the results and return the final result
-
 def read_input_file(file_path):
     """Read the input data
     Args:
@@ -22,10 +13,6 @@ def read_input_file(file_path):
         
     data = [line.strip() for line in lines if line.strip()]
     return data
-
-#For example, consider the following section of corrupted memory:
-#xmul(2,4)%&mul[3,7]!@^do_not_mul(5,5)+mul(32,64]then(mul(11,8)mul(8,5))
-#Only the four highlighted sections are real mul instructions. Adding up the result of each instruction produces 161 (2*4 + 5*5 + 11*8 + 8*5).
 
 def delete_invalid_chars(data):
     """Keep only the valid mul instructions
@@ -67,7 +54,7 @@ def main(file_path):
     print(final_result)
 
 if __name__ == '__main__':
-    file_path = "./input/input.txt"
+    file_path = "day_3/input/input.txt"
     start_time = time.time()
     main(file_path)
     end_time = time.time()

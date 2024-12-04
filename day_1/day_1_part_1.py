@@ -1,14 +1,3 @@
-#Advent of Code 2024 - Day 1 : Part 1
-
-# Step to solve the problem
-
-# Step 1 : Separate the two columns of numbers into two separate lists
-# Step 2 : Sort the two lists in ascending order
-# Step 3 : Pair up the numbers from the two lists
-# Step 4 : Calculate the distance between each pair
-# Step 5 : Sum all the distances
-
-
 def separate_input_file(file_path):
     """Separate the two columns of numbers into two separate lists
     Args:
